@@ -1,4 +1,4 @@
-# habitat-emailing
+# habitat-emailer
 
 > **TODO:** Add project description.
 
