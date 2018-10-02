@@ -15,7 +15,7 @@ lazy val root = (project in file("."))
     name := "habitat-emailer",
     organization := "com.vsthost.rnd",
     scalaVersion := "2.12.7",
-    version := "0.1.0",
+    version := "0.1.1-SNAPSHOT",
 
     // Scalac Options:
     scalacOptions += "-deprecation",
